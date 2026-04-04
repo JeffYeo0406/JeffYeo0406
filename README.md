@@ -10,7 +10,6 @@
 ```
 
 <p align="center">
-
   <b>Active learner, 02s</b><br>
   🎓 Bachelor Degree of Computer Engineering · Diploma in Electronic Engineering<br>
   🏫 Universiti Teknikal Melaka Malaysia (UTeM)
