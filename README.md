@@ -50,14 +50,26 @@ My current focus is **AI Engineering**, while continuously expanding my capabili
 
 ## 🌟 Featured Portfolio
 
-### 📘 Digital Portfolio — BERR4723 Digital Image Processing
-🔗 **Repository:** [JeffYeo0406/DigitalPortfolio](https://github.com/JeffYeo0406/DigitalPortfolio](https://jeffyeo0406.github.io/DigitalPortfolio/))
+### 📘 Digital Portfolio
+🔗 **Portfolio:** [jeffyeo0406.github.io/DigitalPortfolio](https://jeffyeo0406.github.io/DigitalPortfolio/)
 
 A portfolio showcasing academic and project work in learning journey, including AI-related and industrial application-focused content.
 
 ---
 
-## 🔬 Research & Projects
+## � GitHub Repositories
+
+| Repository | Description | Stack |
+|---|---|---|
+| [Personal_Finance_Evaluater](https://github.com/JeffYeo0406/Personal_Finance_Evaluater) | Self-developed financial model deployment | — |
+| [FileHelper](https://github.com/JeffYeo0406/FileHelper) | Personal utility project | Python |
+| [IDP_SBT](https://github.com/JeffYeo0406/IDP_SBT) | BERR IDP Smart Blind Stick System | C++ |
+| [Group-A](https://github.com/JeffYeo0406/Group-A) | Database & Cloud System Group Assignment | JavaScript |
+| [BENR2243](https://github.com/JeffYeo0406/BENR2243) | Exercise / coursework | JavaScript |
+
+---
+
+## �🔬 Research & Projects
 
 ### 1) IoT-Based Greenhouse Monitoring
 Designed and implemented a smart environmental monitoring system using DHT11 and MQ135 sensors to monitor temperature, humidity, and air quality for agricultural micro-climates.
@@ -71,6 +83,7 @@ Building a CNN-based vision system for automated classification of oil palm ripe
 
 - GitHub: [@JeffYeo0406](https://github.com/JeffYeo0406)
 - LinkedIn: [Yeo Kheong Jie](https://www.linkedin.com/in/yeo-kheong-jie-1038421b4/)
+- JobStreet: [My Profile](https://my.jobstreet.com/profiles/kheongjie-yeo-rs107rkxxM)
 
 ---
 
