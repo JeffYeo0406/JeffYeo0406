@@ -51,7 +51,7 @@ My current focus is **AI Engineering**, while continuously expanding my capabili
 ## 🌟 Featured Portfolio
 
 ### 📘 Digital Portfolio — BERR4723 Digital Image Processing
-🔗 **Repository:** [JeffYeo0406/DigitalPortfolio]([https://github.com/JeffYeo0406/DigitalPortfolio](https://jeffyeo0406.github.io/DigitalPortfolio/))
+🔗 **Repository:** [JeffYeo0406/DigitalPortfolio](https://github.com/JeffYeo0406/DigitalPortfolio](https://jeffyeo0406.github.io/DigitalPortfolio/))
 
 A portfolio showcasing academic and project work in learning journey, including AI-related and industrial application-focused content.
 
