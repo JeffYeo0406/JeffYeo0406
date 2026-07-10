@@ -63,7 +63,7 @@ A portfolio showcasing academic and project work in learning journey, including 
 |---|---|---|
 | [PalmFruitRipenessClassificationSystem](https://github.com/JeffYeo0406/PalmFruitRipenessClassificationSystem) | Production-oriented CNN classification system for oil palm ripeness with FastAPI serving, Prometheus observability, and a 3-stage validation gate for dependable deployment. | Jupyter Notebook, Python, HTML, HCL, Shell, Dockerfile |
 | [PPE-Compliance-Detection-System](https://github.com/JeffYeo0406/PPE-Compliance-Detection-System) | Real-time 14-class PPE compliance detection using a YOLOv8n backbone, optimized via INT8 ONNX deployment and a dual-backend inference path for resilience. | Python |
-| [Agentic-RAG-Exploration](https://github.com/JeffYeo0406/Agentic-RAG-Exploration) | Self-directed exploration of dual-mode agentic AI workflows using n8n, Ollama, and the OpenAI Agents SDK, featuring local multi-agent orchestration and dynamic cloud API offloading patterns. | n8n, Ollama, OpenAI Agents SDK |
+| [Agentic-RAG-Exploration](https://github.com/JeffYeo0406/Agentic-RAG-Exploration) | Self-directed exploration of dual-mode agentic AI workflows using n8n, Ollama, and the OpenAI Agents SDK, featuring local multi-agent orchestration and dynamic cloud API offloading patterns. | n8n, Ollama |
 
 ---
 
