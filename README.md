@@ -20,7 +20,7 @@
 ## ✨ About Me
 
 I am an active learner passionate about building meaningful solutions with software and intelligent systems.  
-My current focus is **AI Engineering**, while continuously expanding my capabilities in both technical depth and practical applications.
+My current focus is **AI / ML Engineering**, while continuously expanding my capabilities in both technical depth and practical applications.
 
 ---
 
